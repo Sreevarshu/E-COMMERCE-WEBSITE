@@ -10,7 +10,7 @@ CSS
 Getting Started
 To get started with this project, simply visit the website using the link provided below:
 
-https://seeyashop.netlify.app/
+
 
 Usage:
 Once you visit the website, you can browse through the products and add them to your cart. You can also create an account to save your shipping and payment information for future purchases.
@@ -20,6 +20,4 @@ At this time, I am not accepting contributions to this project. However, if you 
 
 Credits:
 I would like to give credit to the Easy Tutorials YouTube channel for providing the tutorial that I used to create this website. Without their help, I would not have been able to create this project.
-..
 
-![screencapture-seeyashop-netlify-app-2023-06-15-16_13_34 (1)](https://github.com/ShubhamChoudharyShubh/seeyashop/assets/96586771/dd85e74b-eeef-45f2-a17e-0c5380539727)
